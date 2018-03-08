@@ -1,0 +1,18 @@
+对应插件说明
+// 对es语法转义
+"babel-runtime": "^6.0.0",
+//解决移动端点击300毫秒延迟问题
+"fastclick": "^1.0.6",
+"vue-lazyload": "1.0.3",
+"axios": "^0.16.1",
+"jsonp": "0.2.1",
+"better-scroll": "^0.1.15",
+"create-keyframe-animation": "^0.1.0",
+"js-base64": "^2.1.9",
+"lyric-parser": "^1.0.1",
+"good-storage": "^1.0.1"
+
+
+打包插件
+// es6 补丁 对部分语法转义
+"babel-polyfill": "^6.2.0",
